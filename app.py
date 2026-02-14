@@ -4,8 +4,7 @@ import numpy as np
 from sklearn.datasets import load_breast_cancer
 
 # Load model + scaler
-model = joblib.load("breast_model.pkl")
-scaler = joblib.load("scaler.pkl")
+
 
 # Load feature names
 data = load_breast_cancer()
