@@ -7,7 +7,7 @@ venv/
 .env/
 
 # Model files (optional)
-*.pkl
+
 
 # VS Code settings
 .vscode/
